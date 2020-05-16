@@ -1,0 +1,28 @@
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image10\Image10\bin\Debug\Image10.exe.config
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image10\Image10\bin\Debug\Image10.exe
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image10\Image10\bin\Debug\Image10.pdb
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image10\Image10\obj\Debug\Image10.csprojAssemblyReference.cache
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image10\Image10\obj\Debug\Image10.Form1.resources
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image10\Image10\obj\Debug\Image10.Properties.Resources.resources
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image10\Image10\obj\Debug\Image10.csproj.GenerateResource.cache
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image10\Image10\obj\Debug\Image10.exe
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image10\Image10\obj\Debug\Image10.pdb
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image11\Image10\bin\Debug\Image10.exe.config
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image11\Image10\bin\Debug\Image10.exe
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image11\Image10\bin\Debug\Image10.pdb
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image11\Image10\obj\Debug\Image10.csprojAssemblyReference.cache
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image11\Image10\obj\Debug\Image10.Form1.resources
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image11\Image10\obj\Debug\Image10.Properties.Resources.resources
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image11\Image10\obj\Debug\Image10.csproj.GenerateResource.cache
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image11\Image10\obj\Debug\Image10.exe
+D:\Files\PENS\Semester 4\Pengolahan Citra\Program\Image11\Image10\obj\Debug\Image10.pdb
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\bin\Debug\Image10.exe.config
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\bin\Debug\Image10.exe
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\bin\Debug\Image10.pdb
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\obj\Debug\Image10.csprojAssemblyReference.cache
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\obj\Debug\Image10.Form1.resources
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\obj\Debug\Image10.Properties.Resources.resources
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\obj\Debug\Image10.csproj.GenerateResource.cache
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\obj\Debug\Image10.csproj.CoreCompileInputs.cache
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\obj\Debug\Image10.exe
+C:\Users\TIARA\Downloads\Image11\Image11\Image10\obj\Debug\Image10.pdb
